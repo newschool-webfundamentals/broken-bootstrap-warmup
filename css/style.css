@@ -5,6 +5,7 @@ h1 {
 h3 {
   font-family: serif;
   margin: 0;
+  font-size: 30px;
 }
 
 p {
@@ -28,4 +29,5 @@ p {
 
 .row {
   padding: 50px 0px;
+  margin-bottom: 0px;
 }
